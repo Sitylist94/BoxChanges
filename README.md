@@ -10,7 +10,7 @@ To get started with this project, simply clone the repository:
 
 bash
 Copier le code
-git clone https://github.com/YourUsername/DynamicBoxStyler.git
+git clone https://github.com/Sitylist94/BoxChanges.git
 Navigate into the project directory:
 
 bash

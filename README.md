@@ -81,3 +81,4 @@ Enhance the user experience by adding a color picker or slider.
 Integrate with a larger project to create a live CSS editor.
 💬 Feedback
 We'd love to hear your thoughts and see how you've used Dynamic Box Styler in your projects! Share your feedback and ideas to improve this tool.
+

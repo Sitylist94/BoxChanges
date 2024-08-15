@@ -19,7 +19,7 @@ cd DynamicBoxStyler
 Then, open the index.html file in your favorite web browser to see the tool in action.
 
 # 🧩 Code Overview
-HTML
+# HTML
 html
 Copier le code
 <!DOCTYPE html>

@@ -33,4 +33,4 @@ Integrate this with a larger project as a live CSS editor.
 Contributions are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 # 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the LGPL-2.1 License - see the LICENSE file for details.
